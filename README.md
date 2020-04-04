@@ -2,7 +2,77 @@
 ---------
 ChatBot using python, Tensorflow 
 ----------------------------------
-
+#OUTPUT:
+--------
+   Start Taking With The Chat Boot (type quit to stop chat)!
+    You : hey
+    Bot : Good to see you again!
+    You : hi
+    Bot : Hi there, how can I help?
+    You : hello
+    Bot : Hi there, how can I help?
+    You : how are you
+    Bot : Hello!
+    You : whats your name
+    Bot : I'm bot
+    You : how are you
+    Bot : Hi there, how can I help?
+    You : what is your name
+    Bot : I'm bot
+    You : morning
+    Bot : Good Moring have a nice day
+    You : good morning
+    Bot : Good Moring..
+    You : evening
+    Bot : Good Evening..
+    You : good evening
+    Bot : Good Evening have a nice day
+    You : night
+    Bot : Good Night..
+    You : good night
+    Bot : Good Night have a peacfull sleep
+    You : i am sad
+    Bot : Try to be happy always..
+    You : i am bored 
+    Bot : well play some games
+    You : i am getting boring
+    Bot : well play some games
+    You : i am sad
+    Bot : Well call your bestfriend
+    You : sad
+    Bot : Well call your bestfriend
+    You : happy
+    Bot : Woow that's awesome..
+    You : who is sujit
+    Bot : Mandal
+    You : who is sujit
+    Bot : Sujit Mandal is  a student and also he is a Python Devoloper!
+    You : last name of sujit
+    Bot : Sujit Mandal is  a student and also he is a Python Devoloper!
+    You : last name of sujit
+    Bot : Mandal
+    You : tell me about sujit
+    Bot : Sujit Mandal is a Python Devoloper. He doing Research in Machine Learning. his github           link:https://github.com/sujitmandal?tab=repositories
+    You : bye
+    Bot : Sad to see you go :(
+    You : have a nice day
+    Bot : Talk to you later
+    You : hu
+    Bot : well call your mother
+    You : dhsagfcgsgfcs cshcsiyhcs
+    Bot : well call your mother
+    You : la;sajfkcka
+    Bot : well call your mother
+    You : fuck off
+    Bot : Try to be happy always..
+    You : fuck you
+    Sorry I Don't Get That! Try Again....
+    You : ok
+    Bot : Well call your bestfriend
+    You : bye
+    Bot : Goodbye!
+    You : q
+    
  Requirement’s:
 ---------------
 
