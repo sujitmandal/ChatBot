@@ -1,8 +1,11 @@
 # ChatBot
+---------
 ChatBot using python, Tensorflow 
-
+----------------------------------
 
  Requirement’s:
+---------------
+
 • Python 3.7
 
 • Anaconda
@@ -10,15 +13,20 @@ ChatBot using python, Tensorflow
 • Visual Studio Code
 
  LINK’S:
+---------
 • Python :
 Download https://www.python.org/downloads/
 
 • Anaconda :
+------------
 Windows:
+--------
 • Download https://www.anaconda.com/downloads
 
 Linux:
+------
 Command:
+--------
 • " wget https://repo.anaconda.com/archive/Anaconda3-5.3.1-Linux-x86_64.sh "
 
 • " bash Anaconda3-5.3.1-Linux-x86_64.sh "
@@ -26,9 +34,11 @@ Command:
 • " conda update anaconda "
 
 • Visual Studio Code :
+----------------------
 Download https://code.visualstudio.com/Download
 
  Installing the required package’s:
+------------------------------------
 
 • pip install tensorflow_cpu==1.5
 
@@ -43,9 +53,11 @@ Download https://code.visualstudio.com/Download
 • pip install nltk
 
 License:
+--------
 MIT Licensed
 
 Author:
+-------
 Sujit Mandal
 
 LinkedIn : https://www.linkedin.com/in/sujit-mandal-91215013a/
