@@ -110,7 +110,7 @@ Download https://code.visualstudio.com/Download
  Installing the required package’s:
 ------------------------------------
 
-• pip install tensorflow_cpu==1.5
+• pip install tensorflow_cpu==1.15
 
 • pip install tensorflow==1.5
 
