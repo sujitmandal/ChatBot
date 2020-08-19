@@ -1,13 +1,8 @@
-# ChatBot
----------
-ChatBot using python, Tensorflow 
-----------------------------------
-#Demo:
-------
+## Demo:
  [![](https://yt-embed.herokuapp.com/embed?v=Z7E9kQTa5NI )](https://www.youtube.com/watch?v=Z7E9kQTa5NI )
 
-#OUTPUT:
---------
+## OUTPUT :
+```
    Start Taking With The Chat Boot (type quit to stop chat)!
     You : hey
     Bot : Good to see you again!
@@ -76,46 +71,33 @@ ChatBot using python, Tensorflow
     You : bye
     Bot : Goodbye!
     You : q
-    
- Requirement’s:
----------------
-
+```
+## Requirement’s:
+```
 • Python 
 
 • Anaconda
 
 • Visual Studio Code
+```
+## LINK’S:
+• [Python Download](https://www.python.org/downloads/)
 
- LINK’S:
----------
-• Python :
-Download https://www.python.org/downloads/
+• [Anaconda Download](https://www.anaconda.com/downloads)
 
-• Anaconda :
-------------
-• Download https://www.anaconda.com/downloads
+• [Visual Studio Download](https://code.visualstudio.com/Download)
 
-• Visual Studio Code :
-----------------------
-Download https://code.visualstudio.com/Download
-
-•Linux:
-------
-How to install Anaconda In Linux | Create Environment | Install TensorFlow | Opencv library |
----------------------------------------------------------------------------------------------
+## Linux:
+ How to install Anaconda In Linux | Create Environment | Install TensorFlow | Opencv library |
  [![How to install | Python | | Anaconda | | Opencv library |](https://yt-embed.herokuapp.com/embed?v=Mfbrxy8gK6A)](https://www.youtube.com/watch?v=Mfbrxy8gK6A "How to install Anaconda In Linux | Create Environment | Install TensorFlow | Opencv library |")
 
-• Windows:
--------
-
-• How to install | Python | | Anaconda | | Opencv library |
-------------------------------------------------------------
+##  Windows:
+How to install | Python | | Anaconda | | Opencv library |
  [![How to install | Python | | Anaconda | | Opencv library |](https://yt-embed.herokuapp.com/embed?v=eVV3byQlYvA)](https://www.youtube.com/watch?v=eVV3byQlYvA "How to install | Python | | Anaconda | | Opencv library |")
 
 
- Installing the required package’s:
-------------------------------------
-
+## Installing the required package’s:
+```
 • pip install tensorflow_cpu==1.15
 
 • pip install tensorflow==1.5
@@ -127,17 +109,19 @@ How to install Anaconda In Linux | Create Environment | Install TensorFlow | Ope
 • pip install numpy
 
 • pip install nltk
-
-License:
---------
+```
+## License:
 MIT Licensed
 
-Author:
--------
+## Author:
 Sujit Mandal
 
-LinkedIn : https://www.linkedin.com/in/sujit-mandal-91215013a/
+[GitHub](https://github.com/sujitmandal)
 
-Facebook : https://www.facebook.com/sujit.mandal.33671748
+[PyPI](https://pypi.org/project/images-into-array/)
 
-Twitter : https://twitter.com/mandalsujit37
+[LinkedIn](https://www.linkedin.com/in/sujit-mandal-91215013a/)
+
+[Facebook](https://www.facebook.com/sujit.mandal.33671748)
+
+[Twitter](https://twitter.com/mandalsujit37)
